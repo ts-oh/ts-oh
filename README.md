@@ -1,5 +1,5 @@
-## Hi there! I'm Tim, and welcome to my GitHub profile. 😊
+## Hi there! I'm Tim. 😊
 
-I'm a software dev. who loves to learn new things. In my free time, I enjoy working on personal projects and learning computer science.
+In my free time, I actively pursue my passion for learning through personal projects and computer science.
 
-Thanks for stopping by! 🐵
+Thanks for stopping by!
